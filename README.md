@@ -34,8 +34,6 @@
 <a href="https://linkedin.com/in/viresh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viresh-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/devviresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devviresh" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_viresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_viresh" height="30" width="40" /></a>
-
-<!-- codechef -->
 <a href="https://www.codechef.com/users/viresh_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="viresh_dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viresh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viresh_dev" height="30" width="40" /></a>
 
@@ -83,11 +81,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devviresh&show_icons=true&locale=en&layout=compact" alt="devviresh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devviresh&show_icons=true&locale=en" alt="devviresh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devviresh&" alt="devviresh" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devviresh&show_icons=true&locale=en" alt="devviresh" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devviresh&" alt="devviresh" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devviresh&show_icons=true&locale=en&layout=compact" alt="devviresh" /></p>
 
 
 <!--
