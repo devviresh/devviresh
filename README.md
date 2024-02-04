@@ -79,14 +79,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Statistics:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devviresh&show_icons=true&locale=en&layout=compact" alt="devviresh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devviresh&show_icons=true&locale=en" alt="devviresh" /></p>
 
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devviresh&show_icons=true&locale=en" alt="devviresh" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devviresh&" alt="devviresh" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devviresh&show_icons=true&locale=en&layout=compact" alt="devviresh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devviresh&" alt="devviresh" /></p>
 
 
 <!--
