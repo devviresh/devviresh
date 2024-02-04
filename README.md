@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
-- 👯 I’m looking to collaborate on [collaborate](link)
+<!-- - 👯 I’m looking to collaborate on [collaborate](link) -->
 
-- 🤝 I’m looking for help with [help](link)
+<!-- - 🤝 I’m looking for help with [help](link) -->
 
-- 👨‍💻 All of my projects are available at [https://vireshdev.netlify.app/](https://vireshdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vireshdev.netlify.app/)
 
 - 💬 Ask me about **Flutter, MERN**
 
 - 📫 How to reach me **vireshdev5e@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tdOiWysK3fz6yYDX1QZC-4UPZAzSXpiwaPffWyuYvec/edit?pli=1](https://docs.google.com/document/d/1tdOiWysK3fz6yYDX1QZC-4UPZAzSXpiwaPffWyuYvec/edit?pli=1)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tdOiWysK3fz6yYDX1QZC-4UPZAzSXpiwaPffWyuYvec/edit?pli=1)
 
-- ⚡ Fun fact **fun fact**
+<!-- - ⚡ Fun fact **fun fact** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
