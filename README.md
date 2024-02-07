@@ -30,10 +30,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viresh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viresh-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/devviresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devviresh" height="30" width="40" /></a>
+<a href="https://instagram.com/viresh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devviresh" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_viresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_viresh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/viresh_dev" target="blank"><img align="center" src="./assets/Chef Face.png" alt="viresh_dev" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/viresh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viresh_dev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vireshdev5e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vireshdev5e" height="30" width="40" /></a>
 
 </p> 
 
