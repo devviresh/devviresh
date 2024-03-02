@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **vireshdev5e@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tdOiWysK3fz6yYDX1QZC-4UPZAzSXpiwaPffWyuYvec/edit?pli=1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VxS1en2Wnz3fyW0SuIGOh4D2a8AsVLCL/view?usp=drive_link)
 
 <!-- - ⚡ Fun fact **fun fact** -->
 
@@ -102,3 +102,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/devviresh/devviresh/output/snake.svg" alt="Snake animation" />
+
+###
