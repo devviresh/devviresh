@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, AWS**
 
-<!-- - 👯 I’m looking to collaborate on [collaborate](link) -->
+- 👀 Exploring the field of Artificial Intelligence
 
 <!-- - 🤝 I’m looking for help with [help](link) -->
 
