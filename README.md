@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **vireshdev5e@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VxS1en2Wnz3fyW0SuIGOh4D2a8AsVLCL/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ra0X73OsIsXVf9v-5Fly8KXn37Y6ZfrQ/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **fun fact** -->
 
