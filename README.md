@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
+<img align="right" width="350" src="assets/programmer.png" alt="Coding png" />
+
 - 🔭 I’m currently working on [My portfolio](link)
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, AWS**
